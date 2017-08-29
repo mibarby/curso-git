@@ -1,0 +1,6 @@
+[0828/224623.488:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Program Files (x86)\Hotson\Reports\Dump: O sistema não pode encontrar o caminho especificado. (0x3)
+[0828/224623.494:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
+[0828/224623.495:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Program Files (x86)\Hotson\Reports\Dump: O sistema não pode encontrar o caminho especificado. (0x3)
+[0828/225118.510:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Program Files (x86)\Hotson\Reports\Dump: O sistema não pode encontrar o caminho especificado. (0x3)
+[0828/225118.515:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
+[0828/225118.516:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Program Files (x86)\Hotson\Reports\Dump: O sistema não pode encontrar o caminho especificado. (0x3)
